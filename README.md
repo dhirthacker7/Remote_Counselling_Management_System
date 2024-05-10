@@ -1,7 +1,5 @@
 # Remote-Counselling-management-system
 
-REMOTE COUNSELLING MANAGEMENT SYSTEM
-
 In the current rapid paced society, mental well being is something that is not valued as much as it should be. The hustle and bustle of modern life has contributed to a significant rise in mental health issues which has in turn established the need for better mental healthcare/counselling systems. 
 
 
