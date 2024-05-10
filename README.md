@@ -6,7 +6,6 @@ In the current rapid paced society, mental well being is something that is not v
 Mental trauma is a common issue faced by people irrespective of their age and is relatable to everyone. Off late, the importance of mental well-being is being significantly recognized. Unaddressed mental trauma leads to severe depression and also suicidal thoughts. Many people consider not going to therapy because they can’t face discussing their issues in person. In that case, a remote counselling system would be of huge help.
 
 
-OBJECTIVES:
 -> This system can enable us to provide support for better mental health.
 
 -> Offers help to cope up with anything and everything: Issues with family, education, mental trauma, work pressure, depression, etc.
