@@ -9,4 +9,4 @@ Mental trauma is a common issue faced by people irrespective of their age and is
 
 •	Developed a complete MSSQL server database solution and created an online counseling system, performing CRUD operations. 
 
-•	The project consisted of an ERD, dB objects like stored procedures, user-defined functions (UDFs), views, triggers, non-clustered indexes, and data encryption, and performed data visualization by creating a tableau dashboard for a better understanding of the data.
+•	The project consists of an Entity Relationship Diagram, based on which a SQL server database has been designed. Database objects like stored procedures, user-defined functions (UDFs), views, triggers, non-clustered indexes, and data encryption, have been created and data visualization has been carried out by creating a tableau dashboard for a better understanding of the data.
