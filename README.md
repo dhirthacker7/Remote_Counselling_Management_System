@@ -1,4 +1,4 @@
-# Remote-Counselling-management-system | MSSQL, PL-SQL, Tableau
+## Remote-Counselling-management-system | # MSSQL, PL-SQL, Tableau
 ![image](https://github.com/dhirthacker7/Remote-Counselling-management-system/assets/46825149/f9128e4f-afa2-43d0-8e6d-fe52f0208832)
 
 In the current rapid paced society, mental well being is something that is not valued as much as it should be. The hustle and bustle of modern life has contributed to a significant rise in mental health issues which has in turn established the need for better mental healthcare/counselling systems. 
