@@ -9,30 +9,29 @@ Mental trauma is a common issue faced by people irrespective of their age and is
 
 
 OBJECTIVES:
-	This system can enable us to provide support for better mental health.
+-> This system can enable us to provide support for better mental health.
 
-	Offers help to cope up with anything and everything: Issues with family, education, mental trauma, work pressure, depression, etc.
+-> Offers help to cope up with anything and everything: Issues with family, education, mental trauma, work pressure, depression, etc.
 
-	Helps keep self-confidence stable. Online sessions can help build positivity and confidence among people.
+-> Helps keep self-confidence stable. Online sessions can help build positivity and confidence among people.
 
-	Virtual counselling can help people in rehabilitation from relapsing.
+-> Virtual counselling can help people in rehabilitation from relapsing.
 
-	Helps save time, money and also it can help to maintain record of each session.
+-> Helps save time, money and also it can help to maintain record of each session.
 
 
 
-PURPOSE:
 Purpose of an online counseling system is as follows:
 
-•	People tend to keep a low profile when they are going through a difficult phase. In that case, counselling is an aspect that can help them with what they are going through,
+-> People tend to keep a low profile when they are going through a difficult phase. In that case, counselling is an aspect that can help them with what they are going through,
 
-•	Online counselling is more flexible than in person sessions and it also provides immediate attention in case of emergency. 
+-> Online counselling is more flexible than in person sessions and it also provides immediate attention in case of emergency. 
 
-•	Online counselling is cost efficient and saves travel time. Both parties involved, do not need to spend time/money on travelling. 
+-> Online counselling is cost efficient and saves travel time. Both parties involved, do not need to spend time/money on travelling. 
 
-•	The sessions can be conducted in a convenient way, so people don’t have to change their routines for in-person sessions. Online sessions can streamline the appointment process and can also help with rescheduling and other services.
+-> The sessions can be conducted in a convenient way, so people don’t have to change their routines for in-person sessions. Online sessions can streamline the appointment process and can also help with rescheduling and other services.
 
-•	Privacy and anonymity can be easily maintained in online sessions. People are not yet very comfortable about sharing that they are getting help for their mental health, so this system helps in such a scenario.
+-> Privacy and anonymity can be easily maintained in online sessions. People are not yet very comfortable about sharing that they are getting help for their mental health, so this system helps in such a scenario.
 
 
 
