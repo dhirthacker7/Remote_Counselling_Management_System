@@ -16,10 +16,6 @@ Mental trauma is a common issue faced by people irrespective of their age and is
 
 -> Helps save time, money and also it can help to maintain record of each session.
 
-
-
-Purpose of an online counseling system is as follows:
-
 -> People tend to keep a low profile when they are going through a difficult phase. In that case, counselling is an aspect that can help them with what they are going through,
 
 -> Online counselling is more flexible than in person sessions and it also provides immediate attention in case of emergency. 
