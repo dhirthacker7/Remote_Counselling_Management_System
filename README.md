@@ -24,7 +24,7 @@ This project involves the development of a comprehensive database solution using
 
 ## ER diagram
 
-![ER Diagram](./final_ER_diagram.draw.io.png)
+![ER Diagram](./final_ER_diagram.png)
 
 ## Features
 
