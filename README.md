@@ -22,6 +22,10 @@ This project involves the development of a comprehensive database solution using
 
 - **Tableau Dashboard Version 1.0.pdf**: A PDF document presenting the initial version of the Tableau dashboard, providing visual insights into the system's data and performance metrics.
 
+## ER diagram
+
+![ER Diagram](./final_ER_diagram.png)
+
 ## Features
 
 - **Comprehensive Database Design**: Structured schema to manage users, appointments, session logs, and communications.
