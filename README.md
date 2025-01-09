@@ -43,8 +43,11 @@ To explore or utilize this project:
 2. Set Up the Database:
 
 Ensure you have MSSQL Server installed.
+
 Execute the CREATE TABLE.sql script to create the necessary tables.
+
 Run the DATABASE OBJECTS.sql script to set up required database objects.
+
 Populate the database with sample data using the INSERT QUERIES.sql script.
 
 ### Review the ER Diagram:
