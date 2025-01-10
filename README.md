@@ -1,7 +1,5 @@
 # Remote_Counselling_Management_System (Streamlining Client and Counselor Interactions) | MSSQL, PL-SQL, Tableau  
 
-![image](https://github.com/dhirthacker7/Remote-Counselling-management-system/assets/46825149/f9128e4f-afa2-43d0-8e6d-fe52f0208832)
-
 ## Overview
 
 In today's fast-paced society, mental well-being often doesn't receive the attention it deserves. The hustle and bustle of modern life have led to a significant rise in mental health issues, underscoring the need for effective mental healthcare and counselling systems. Many individuals hesitate to seek therapy due to the discomfort of discussing their issues in person. A remote counselling system can bridge this gap by providing accessible mental health support.
