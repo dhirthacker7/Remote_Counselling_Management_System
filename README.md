@@ -59,9 +59,3 @@ Refer to the final ER diagram.drawio.png to understand the database structure an
 ### Explore the Tableau Dashboard:
 
 Open the Tableau Dashboard Version 1.0.pdf to view the data visualizations and insights.
-
-
-## Future Enhancements
-#### User Interface Development: Building a web-based or mobile application for end-users to interact with the system.
-#### Real-time Communication: Integrating chat or video conferencing features for live counselling sessions.
-#### Advanced Analytics: Implementing machine learning algorithms to provide personalized recommendations and insights.
